@@ -15,9 +15,9 @@ Yuk Kenalan dengan pattern.
 Design pattern dibedakan berdasarkan kompleksitasnya, tingkat detail dan skala penerapan ke perangkat lunak yang dirancang.
 Biasanya dibedakan menjadi 3 yaitu:
 
-* *Creational* mengimplementasikan penggunaan kembali kode yang ada.
-* *Structural* menghadapi object dan kelas yang besar tapi tetap menjaga struktur tetap fleksibel dan efisien.
-* *Behavioral* komunikasi yang efektif.
+* [Creational](creational/README.md) mengimplementasikan penggunaan kembali kode yang ada.
+* [Structural](structural/README.md) menghadapi object dan kelas yang besar tapi tetap menjaga struktur tetap fleksibel dan efisien.
+* [Behavioral](behavioral/README.md) komunikasi yang efektif.
 
 
 ## Sejarah
